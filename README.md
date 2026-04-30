@@ -59,8 +59,9 @@ I did all of this because it really didn’t feel like work to me. I enjoyed the
 Year 1 – RoboSports
 
 Team of two (me and Cezar). We placed 2nd nationally. Cezar couldn’t go to the international (for personal reasons), so I spoke with the first-place team and asked if I could join.
-Now in a team of three (the other two are named Alex and Andrei), we achieved 4th place globally at the international in Panama.
+Now in a team of three (the other two are named Alex and Luca), we achieved 4th place globally at the international in Panama.
 
+![photo from my instagram](./Photos/Panama.jpg)
 Year 2 – Future Engineers
 
 Switched to the more advanced Future Engineers category, which involves full documentation and more complex systems.
