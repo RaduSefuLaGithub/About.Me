@@ -6,7 +6,7 @@ So, a quick overview of my passions! I program (C / C++ / C# / Python), I do rob
 Now more on each one!
 
 
-Competitive Programming
+## Competitive Programming
 
 I have been programming in C/C++ since 5th grade. Every year, I have participated in the Roalgo Olympiad and qualified for the national phase. In total, I have two silver medals. In 8th grade, I also made it into the large national lot (top 20 students from 5th–8th grade).
 
