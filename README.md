@@ -42,9 +42,12 @@ Itch.io: https://lildevthatstrynagobig.itch.io/s
 I made the fourth game with the same two friends I made the second one with. With this one, we won the game jam competition from our summer camp. It was a 2D platformer with a lot of cool mechanics. You are a miner trying to get rich by collecting the gems found deep inside a cave. There are, of course, a lot of things trying to stop you. After the game jam, we kept working on the game for a while. We all think it has a lot of potential and that one day we could publish it on Steam. We also all have school, so it's hard to go all in with the development :(
 
 Game Build: https://github.com/RaduSefuLaGithub/UnderGrundle-Build
+![screenshoot from first lvl](./Photos/UnderGrundle.png)
 
 
 The fifth game was also born during the same game jam as the fourth (a year later, that is). I made it along with one of the two friends I worked with in the past and a newcomer. This one was an Overcooked-inspired party game. You and your friends need to take care of some mutant plants. They need to be fed potions that y'all have to collect and brew. If not fed in time, they won’t act pretty...
+![plants got hungry](./Photos/Thorn-Leaves1.png)
+![hmmmm](./Photos/Thorn-Leaves2.png)
 
 ## Robotics
 
@@ -61,7 +64,7 @@ Year 1 – RoboSports
 Team of two (me and Cezar). We placed 2nd nationally. Cezar couldn’t go to the international (for personal reasons), so I spoke with the first-place team and asked if I could join.
 Now in a team of three (the other two are named Alex and Luca), we achieved 4th place globally at the international in Panama.
 
-![photo from my instagram](./Photos/Panama.jpg)
+![photo from my instagram](./Photos/Panama.jpeg)
 Year 2 – Future Engineers
 
 Switched to the more advanced Future Engineers category, which involves full documentation and more complex systems.
@@ -73,6 +76,9 @@ Year 3 – RoboSports
 
 Returned to RoboSports, now in a team of three (alongside Edi and Radu). We finally got 1st place nationally.
 I couldn’t attend the international competition in Singapore, but my team placed 17th globally (without my help after nationals, so I won’t take credit).
+
+Currently I’m Co-Leader of my high school FTC team. Here’s a photo of us at the regional.
+![I had noodle legs](./Photos/0x0_Squad.jpeg)
 
 ## Cyber Security
 
